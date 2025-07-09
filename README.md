@@ -1,3 +1,10 @@
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarshan82775%2Fweather-app-javascript-api&count_bg=%2300BCD4&title_bg=%23555555
+
+
+
+
+
 # 🌦️ Weather App – JavaScript + API
 
 A simple weather web app that fetches live weather data using the OpenWeatherMap API.
